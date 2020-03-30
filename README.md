@@ -12,10 +12,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
+### `venv\Scripts\activate`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To activate python work environment navigate to api folder and execute the above script.<br />
+
+### `yarn-start-api`
+
+Runs the backend in the development mode in [http://localhost:5000](http://localhost:5000).<br />
+
+
 
 ### `yarn build`
 
