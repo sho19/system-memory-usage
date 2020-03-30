@@ -10,7 +10,7 @@ Install all the react dependencies of the project.<br />
 
 ### `python3 -m venv venv`
 
-To activate python work environment navigate to api folder and execute the above script.<br />
+To create python environment navigate to api folder and execute the above script.<br />
 
 ### `venv\Scripts\activate`
 
